@@ -19,9 +19,9 @@ For more information, see the [Algexenotation](https://github.com/advancedresear
 
 ### What are Cistercian numerals?
 
-[Cistercian numberals](https://en.wikipedia.org/wiki/Cistercian_numerals) were developed by the Cistercian monastic order in in the early thirteenth century at about the time that Arabic numerals were introduced to northwestern Europe. They are more compact than Arabic or Roman numerals, with a single glyph able to indicate any integer from 1 to 9,999.
+[Cistercian numerals](https://en.wikipedia.org/wiki/Cistercian_numerals) were developed by the Cistercian monastic order in in the early thirteenth century at about the time that Arabic numerals were introduced to northwestern Europe. They are more compact than Arabic or Roman numerals, with a single glyph able to indicate any integer from 1 to 9,999.
 
-![Cistercian numberals](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cistercian_digits_%28vertical%29.svg/1920px-Cistercian_digits_%28vertical%29.svg.png)
+![Cistercian numerals](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cistercian_digits_%28vertical%29.svg/1920px-Cistercian_digits_%28vertical%29.svg.png)
 
 ### Motivation
 
